@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Survival developer 😉
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
@@ -37,12 +35,6 @@
 - 🔵 문명6를 좋아합니다.
 - 🍕 먹방을 좋아합니다.
 - 🍕 제 최애 스트리머는 '우왁굳' 입니다.
-
-<div align="right">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwd3469&layout=compact&thema=apprentice)](https://github.com/cwd3469)
-
-</div>
 
 ### `Contact Me`
 
