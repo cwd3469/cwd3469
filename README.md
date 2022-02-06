@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Survival developer 😉
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
@@ -46,5 +48,3 @@
 
 📞010-4457-5148 </br>
 📧cwd3469@naver.com
-
----
