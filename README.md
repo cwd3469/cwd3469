@@ -1,6 +1,6 @@
 # Survival developer 😉
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cwd3469" height="165">
 
 ### `STACKS`
 
