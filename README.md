@@ -38,5 +38,4 @@
 
 ### `Contact Me`
 
-📞010-4457-5148 </br>
 📧cwd3469@naver.com
