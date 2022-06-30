@@ -18,7 +18,7 @@
 
 ### Who Am I
 
-- 🌱 제 메인 스택은 `React`, `Styled-Components` ,`Redux` , 'TypeScript'
+- 🌱 제 메인 스택은 `TypeScript`,`javascript`,`React`,`Styled-Components`,`Redux`, 
 - 🥇 한양사이버대학교 컴퓨터공학과를 다니고 있습니다
 - 🚅 고향은 강원도 고성 입니다.
 
