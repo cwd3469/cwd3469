@@ -1,7 +1,5 @@
 # 변함없는 우직함과 지치지 않는 에너지를 가진 개발자, Caleb입니다
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cwd3469" height="165">
-
 ### `STACKS`
 
 ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)
